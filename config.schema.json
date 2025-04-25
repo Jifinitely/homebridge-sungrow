@@ -1,0 +1,8 @@
+{
+  "platform": "Sungrow",
+  "name": "Sungrow Inverter",
+  "host": "string",
+  "port": "number",
+  "unitId": "number",
+  "pollInterval": "number"
+}

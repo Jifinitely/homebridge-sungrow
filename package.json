@@ -1,0 +1,16 @@
+{
+  "name": "homebridge-sungrow",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Sungrow SG5K-D inverter",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["homebridge-plugin", "sungrow", "solar", "homekit"],
+  "engines": {
+    "homebridge": ">=1.0.0"
+  },
+  "dependencies": {
+    "homebridge": "^1.5.0",
+    "modbus-serial": "^8.0.0",
+    "fakegato-history": "^1.5.1"
+  }
+}
